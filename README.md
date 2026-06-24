@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">MCA Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
 
@@ -214,17 +213,5 @@ b2c3d4e5f6g7   terraform     Running
 c3d4e5f6g7h8   kubernetes    Running
 ```
 ```
-
----
-
-## 📝 How to Apply
-
-1. **Copy the entire text above** (Ctrl+A then Ctrl+C)
-2. Go to: `https://github.com/uday-999/uday-999/edit/main/README.md`
-3. **Select all existing text** (Ctrl+A) and **delete it** (Backspace)
-4. **Paste** the copied content (Ctrl+V)
-5. Scroll down and click **"Commit changes..."**
-6. Add a commit message like: `"✨ Professional GitHub profile with DevOps focus"`
-7. Click **"Commit changes"**
 
 ---
