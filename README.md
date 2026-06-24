@@ -14,8 +14,6 @@
 </p>
 ---
 
-## 💼 About Me
-
 ```python
 class DevOpsEngineer:
     def __init__(self):
@@ -30,13 +28,13 @@ class DevOpsEngineer:
     
     def current_focus(self):
         return ["Linux", "AWS", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"]
-```
+🔭 Currently: Web Development Intern @ Sokanathan Fincap LLP
 
-- 🔭 **Currently:** Web Development Intern @ Sokanathan Fincap LLP
-- 🌱 **Learning:** Advanced Kubernetes, AWS Solutions Architecture, Terraform Best Practices
-- 🚀 **Passionate about:** Cloud-Native Technologies, Infrastructure as Code, Automation
-- 🎯 **Goal:** Become a Cloud/DevOps Engineer in 2026
+🌱 Learning: Advanced Kubernetes, AWS Solutions Architecture, Terraform Best Practices
 
+🚀 Passionate about: Cloud-Native Technologies, Infrastructure as Code, Automation
+
+🎯 Goal: Become a Cloud/DevOps Engineer in 2026
 ---
 
 ## 🛠️ Tech Stack
