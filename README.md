@@ -1,3 +1,6 @@
+---
+
+```markdown
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">MCA Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
 
@@ -12,7 +15,10 @@
         <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
+
 ---
+
+## 💼 About Me
 
 ```python
 class DevOpsEngineer:
@@ -28,13 +34,13 @@ class DevOpsEngineer:
     
     def current_focus(self):
         return ["Linux", "AWS", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"]
-🔭 Currently: Web Development Intern @ Sokanathan Fincap LLP
+```
 
-🌱 Learning: Advanced Kubernetes, AWS Solutions Architecture, Terraform Best Practices
+- 🔭 **Currently:** Web Development Intern @ Sokanathan Fincap LLP
+- 🌱 **Learning:** Advanced Kubernetes, AWS Solutions Architecture, Terraform Best Practices
+- 🚀 **Passionate about:** Cloud-Native Technologies, Infrastructure as Code, Automation
+- 🎯 **Goal:** Become a Cloud/DevOps Engineer in 2026
 
-🚀 Passionate about: Cloud-Native Technologies, Infrastructure as Code, Automation
-
-🎯 Goal: Become a Cloud/DevOps Engineer in 2026
 ---
 
 ## 🛠️ Tech Stack
@@ -120,6 +126,17 @@ class DevOpsEngineer:
 
 ---
 
+### 5️⃣ Sokanathan Fincap (Financial Services)
+> **Financial services website with lead generation forms**
+
+- 💰 Client-focused design with clear CTAs
+- 📝 Integrated contact forms and service showcases
+- 📱 Responsive and professional layout
+
+**Tech Stack:** `React` `Tailwind CSS` `JavaScript`
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -148,15 +165,28 @@ class DevOpsEngineer:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uday-tech-12b279389">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/uday-999">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:uday72448@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+AWS & Cloud          ████████████████████░   85%
+Docker/K8s           █████████████████░░░░   75%
+Terraform            ████████████████░░░░░   70%
+CI/CD Pipelines      ████████████████░░░░░   70%
+React/Web Dev        ██████████████░░░░░░░   65%
+Linux/DevOps         ██████████████░░░░░░░   65%
+```
 
 ---
 
@@ -167,38 +197,36 @@ class DevOpsEngineer:
 <p align="center">
   <i>“Automate everything, deploy everywhere, and never stop learning.”</i> 🚀
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+```bash
+$ whoami
+uday-999
+
+$ uptime
+Learning DevOps: 6+ months and counting...
+
+$ docker ps
+CONTAINER ID   IMAGE         STATUS
+a1b2c3d4e5f6   aws-cli       Running
+b2c3d4e5f6g7   terraform     Running
+c3d4e5f6g7h8   kubernetes    Running
+```
 ```
 
 ---
 
-## 🎯 What Makes This Profile Stand Out
+## 📝 How to Apply
 
-| Feature | Benefit |
-|---------|---------|
-| **Python class about me** | Tech-savvy, modern introduction |
-| **Project sections with bullet points** | Shows measurable impact |
-| **Tech stack categorization** | Easy for recruiters to scan |
-| **Certifications table** | Validates your learning |
-| **GitHub stats & streak** | Shows consistent contribution |
-| **Random dev quote** | Adds personality |
-| **Professional badges** | Builds credibility |
-
----
-
-## 📝 Quick Setup
-
-1. Go to `github.com/uday-999/uday-999`
-2. Edit `README.md` and paste the content above
-3. Commit changes
-4. Your profile will auto-update
-
----
-
-## 🔄 Optional Enhancements
-
-- Add **GitHub Actions workflow** to auto-update stats daily
-- Create **blog posts** section with Dev.to integration
-- Add **contribution graph** heatmap
-- Link to **live demo** of your projects
+1. **Copy the entire text above** (Ctrl+A then Ctrl+C)
+2. Go to: `https://github.com/uday-999/uday-999/edit/main/README.md`
+3. **Select all existing text** (Ctrl+A) and **delete it** (Backspace)
+4. **Paste** the copied content (Ctrl+V)
+5. Scroll down and click **"Commit changes..."**
+6. Add a commit message like: `"✨ Professional GitHub profile with DevOps focus"`
+7. Click **"Commit changes"**
 
 ---
