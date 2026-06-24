@@ -213,5 +213,3 @@ b2c3d4e5f6g7   terraform     Running
 c3d4e5f6g7h8   kubernetes    Running
 ```
 ```
-
----
