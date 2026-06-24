@@ -1,19 +1,17 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">MCA Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/uday-999">
-    <img src="https://komarev.com/ghpvc/?username=uday-999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/uday-tech-12b279389">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:uday72448@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+    <a href="https://github.com/uday-999">
+        <img src="https://komarev.com/ghpvc/?username=uday-999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+    <a href="https://www.linkedin.com/in/uday-tech-12b279389">
+        <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:uday72448@gmail.com">
+        <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
 </p>
-
 ---
 
 ## 💼 About Me
