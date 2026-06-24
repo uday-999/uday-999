@@ -1,5 +1,3 @@
----
-
 ```markdown
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">MCA Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
