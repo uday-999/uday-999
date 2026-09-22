@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday</h1>
-<h3 align="center">MCA Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
+<h3 align="center">Student | Web Developer | Aspiring Cloud & DevOps Engineer</h3>
 
 <p align="center">
     <a href="https://github.com/uday-999">
